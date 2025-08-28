@@ -29,7 +29,7 @@ This repository contains a demonstration of a demo project for Jira ricketing se
 
 ![Example work types](SR1.png)
 ![Example work types](SR2.png)
-
+![Example work types](SR.png)
 ---
 
 ## Queues
@@ -66,7 +66,7 @@ In addition to the default Jira summary, I created a custom dashboard to better 
 
 #### Urgency Breakdown (Pie Chart)
 
-Displays the distribution of tickets by urgency (High, Medium, Low).
+Displays the distribution of tickets by urgency.
 
 ![Dashboard](u.png)
 
