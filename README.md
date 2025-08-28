@@ -32,26 +32,6 @@ This repository contains a demonstration of a demo project for Jira ricketing se
 
 ---
 
-## Several tickets were created under different **work types**
-
-## Work Types
-1. **Service Requests**
-   - Example: *Request Laptop Upgrade for Developer*  
-   - Includes **priority, due date, status tracking**, and **pending reason comments**
-
-2. **Incidents**
-   - Example: *Navigation Module Crashes Intermittently*  
-   - Shows **escalation comment** and resolution workflow
-
-3. **Service Requests with Approvals**
-   - Example: *Enable Premium Navigation Package for User Trial*  
-   - Demonstrates **approval step** before implementation
-  
-## Examples
-
-![Example work types](SR1.png)
-![Example work types](SR2.png)
-
 ## Queues
 
 This section displays all the active support requests, incidents, and service requests created within the project.
@@ -64,6 +44,7 @@ Lists ticket priority and time to resolution deadlines.
 
 Helps quickly filter tickets based on type, status, or assignee to manage workload effectively.
 
+![Workflow](Qeues.png)
 ---
 
 ![Example work types]()
@@ -73,7 +54,7 @@ Helps quickly filter tickets based on type, status, or assignee to manage worklo
 - Tickets assigned, updated with comments, and closed after resolution
 - Pending reasons (e.g., *waiting for procurement approval*) are documented in comments
 
-![Workflow](views.png)
+![Workflow](Views.png)
 
 ---
 
