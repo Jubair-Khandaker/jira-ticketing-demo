@@ -43,7 +43,7 @@ This repository contains a demonstration of a demo project for Jira ricketing se
 - Lists ticket priority and time to resolution deadlines.
 - Helps quickly filter tickets based on type, status, or assignee to manage workload effectively.
 
-![Workflow](Qeues.png)
+![Workflow](q.png)
 ---
 
 ## Workflow Simulation
