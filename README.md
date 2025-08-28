@@ -84,18 +84,6 @@ Tracks the number of tickets created vs. resolved over time.
 
 ---
 
-## Example Screenshots
-### Service Request
-![Service Request](screenshots/ticket_service_request.png)
-
-### Incident
-![Incident](screenshots/ticket_incident.png)
-
-### Request with Approval
-![Approval](screenshots/ticket_approval.png)
-
----
-
 ## Key Takeaways
 - Demonstrated handling of **service requests, incidents, and approval flows**
 - Used **priorities, labels, and comments** to simulate realistic ticketing
