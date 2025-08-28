@@ -25,7 +25,10 @@ This repository contains a demonstration of a demo project for Jira ricketing se
    - Example: *Enable Premium Navigation Package for User Trial*  
    - Demonstrates **approval step** before implementation
   
+## Examples
+
 ![Example work types](SR1.png)
+![Example work types](SR2.png)
 
 ---
 
