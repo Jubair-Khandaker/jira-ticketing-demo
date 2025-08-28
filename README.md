@@ -59,13 +59,28 @@ Helps quickly filter tickets based on type, status, or assignee to manage worklo
 ---
 
 ## Dashboard
-The dashboard provides real-time visibility into project support activities:
-- **Pie Chart:** Tickets by type  
-- **Created vs Resolved Chart:** Progress tracking  
-- **Recently Updated Issues:** Active work visibility  
-- **Average Resolution Time:** Efficiency metric  
 
-![Dashboard](screenshots/dashboard.png)
+In addition to the default Jira summary, I created a custom dashboard to better visualize project activity.
+
+### Key Widgets Added:
+
+#### Urgency Breakdown (Pie Chart)
+
+Displays the distribution of tickets by urgency (High, Medium, Low).
+
+![Dashboard](u.png)
+
+#### Priority Breakdown (Pie Chart)
+
+Visualizes ticket distribution across priority levels (Highest, High, Medium, Low, Lowest).
+
+![Dashboard](p.png)
+
+#### Created vs. Resolved Issues (List/Chart)
+
+Tracks the number of tickets created vs. resolved over time.
+
+![Dashboard](c.png)
 
 ---
 
