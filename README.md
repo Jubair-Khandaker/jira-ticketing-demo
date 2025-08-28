@@ -29,7 +29,7 @@ This repository contains a demonstration of a demo project for Jira ricketing se
 
 ![Example work types](SR1.png)
 ![Example work types](SR2.png)
-![Example work types](SR.png)
+![Example work types](SR4.png)
 ---
 
 ## Queues
