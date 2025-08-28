@@ -32,6 +32,17 @@ This repository contains a demonstration of a demo project for Jira ricketing se
 ![Example work types](SR4.png)
 ---
 
+## Summary
+
+- The Summary view gives an overview of all project activity at a glance.
+- Request type distribution: How many tickets belong to each category (IT help, hardware, software, etc.).
+- Status overview: Breakdown of tickets that are open, pending, resolved, escalated.
+- Priority breakdown: How tickets are distributed across priority levels (highest, high, medium, etc.).
+- Team workload: Visual representation of workload assigned to users.
+- Recent activity feed: Tracks all status updates, field changes, and comments.
+
+![Workflow](Summary.png)
+
 ## Queues
 
 - This section displays all the active support requests, incidents, and service requests created within the project.
