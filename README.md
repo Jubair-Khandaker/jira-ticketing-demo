@@ -1,6 +1,6 @@
 # Jira Ticketing Demo
 
-This repository contains a demonstration of a demo project for Jira ricketing service that includes **service requests, incidents, and approval workflows**. It simulates how I would handle ticketing, prioritization, and reporting in a real IT/project support environment.
+This repository contains a demonstration of a demo project for Jira ricketing service that includes **service requests, incidents, and approval workflows**. 
 
 
 ## Project Overview
@@ -34,15 +34,11 @@ This repository contains a demonstration of a demo project for Jira ricketing se
 
 ## Queues
 
-This section displays all the active support requests, incidents, and service requests created within the project.
-
-Shows request type (hardware, software, IT help, admin access, etc.).
-
-Displays current status (e.g., Pending, Escalated, Waiting for Support, Open).
-
-Lists ticket priority and time to resolution deadlines.
-
-Helps quickly filter tickets based on type, status, or assignee to manage workload effectively.
+- This section displays all the active support requests, incidents, and service requests created within the project.
+- Shows request type (hardware, software, IT help, admin access, etc.).
+- Displays current status (e.g., Pending, Escalated, Waiting for Support, Open).
+- Lists ticket priority and time to resolution deadlines.
+- Helps quickly filter tickets based on type, status, or assignee to manage workload effectively.
 
 ![Workflow](Qeues.png)
 ---
