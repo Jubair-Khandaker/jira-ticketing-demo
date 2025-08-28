@@ -54,8 +54,6 @@ This repository contains a demonstration of a demo project for Jira ricketing se
 ![Workflow](Qeues.png)
 ---
 
-![Example work types]()
-
 ## Workflow Simulation
 - **To Do → In Progress → Pending/Approval → Done**
 - Tickets assigned, updated with comments, and closed after resolution
